@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/uriel/.gradle/caches/transforms-3/e94337de3ceb42b0135be1d8a4a9b7db/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/uriel/.gradle/caches/transforms-3/b8d955ff5639500073f611d7cca66d0d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /Users/uriel/.gradle/caches/transforms-3/c08086605700e0332c2d789f3343442c/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/220f262bc0c4a90dd1c6d4cfcfffd236/transformed/camera-view-1.0.0-alpha32/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] /Users/uriel/.gradle/caches/transforms-3/547ec1eef38a6093362cbb0055ebb104/transformed/appcompat-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/uriel/.gradle/caches/transforms-3/c5337c5af883d5a89eb44de248036a9c/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/uriel/.gradle/caches/transforms-3/e01b3c478d1cfea9eff112abfb6ab7ac/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.0] /Users/uriel/.gradle/caches/transforms-3/67bf8b280489adc5dd17e9c5173554ed/transformed/activity-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/uriel/.gradle/caches/transforms-3/1d1ec35a0b073539f88987e1e3135d4a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8169044863e32aacf8847f97d6dae8de/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/uriel/.gradle/caches/transforms-3/b4f8bd67f68df867f824843476c0e792/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/uriel/.gradle/caches/transforms-3/33c21fcf575f311fb56e7e61671104ef/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/uriel/.gradle/caches/transforms-3/36c5eae582883d9124a2cca4d1e646b6/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/uriel/.gradle/caches/transforms-3/1ac240e793df8a153307a3873c7df956/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/uriel/.gradle/caches/transforms-3/78a187a07887b946401fee9339ec4fa3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/uriel/.gradle/caches/transforms-3/b265378afefd98a05d6561c9b86651ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/uriel/.gradle/caches/transforms-3/9cc27a85b544e2bd308b01e10d0b1220/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/uriel/.gradle/caches/transforms-3/75d77ab2d713b31cd19a64f7712ed072/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/uriel/.gradle/caches/transforms-3/0d70a48b26e129e8342f05440a7532c7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/d8cbef4b6ccb43d6603b8adbf2e488ed/transformed/camera-lifecycle-1.1.0-alpha12/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uriel/.gradle/caches/transforms-3/364f02d958da6083eb7b4ab0f244e170/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/uriel/.gradle/caches/transforms-3/354ba84b00bc3f654b42465954922aaa/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/uriel/.gradle/caches/transforms-3/7774b338963ffc00386dc8c14655302e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/uriel/.gradle/caches/transforms-3/f6efd0d03fc5f912c9a8ce5a375ea6a5/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/uriel/.gradle/caches/transforms-3/15c8466770a173f9d484396dc8e2d821/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/uriel/.gradle/caches/transforms-3/1551525bad72895c8c43417154f7aa5c/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/uriel/.gradle/caches/transforms-3/217fec835b32ae391351c4d8e9e69555/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/uriel/.gradle/caches/transforms-3/2e1b865ec891b715ca69d0c18a8b7699/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uriel/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/uriel/.gradle/caches/transforms-3/0758d948b6aa56ad60054db5a01ee741/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/uriel/.gradle/caches/transforms-3/67d07b777e83d33bb10df35342aa0522/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/uriel/.gradle/caches/transforms-3/86c811214e5cdd2fe2677c8fbf7015ad/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/uriel/.gradle/caches/transforms-3/c385480978bb58ec994541db18fa1f78/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/uriel/.gradle/caches/transforms-3/b6d96dcec8584c0443e49a1bb1e27dda/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/uriel/.gradle/caches/transforms-3/bf599317aab70acfb280f701e2f6b6d4/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8aea674e3ff26df490b68045ec51afef/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/uriel/.gradle/caches/transforms-3/e624bb674065b70c4a91d08a86ce685e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/uriel/.gradle/caches/transforms-3/2fdc444f58f0985dd90434a2dfd41b22/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8b6dcb5af362fdf92b4433d1caf07205/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:2.8.0] /Users/uriel/.gradle/caches/transforms-3/1ba6fa225ff873dc64d3e7eba9d516b3/transformed/tensorflow-lite-2.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/uriel/.gradle/caches/transforms-3/da4a9d90b6d5906b32f590542e80a97a/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/uriel/.gradle/caches/transforms-3/e94337de3ceb42b0135be1d8a4a9b7db/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/uriel/.gradle/caches/transforms-3/e94337de3ceb42b0135be1d8a4a9b7db/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/uriel/.gradle/caches/transforms-3/b8d955ff5639500073f611d7cca66d0d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/uriel/.gradle/caches/transforms-3/b8d955ff5639500073f611d7cca66d0d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uriel/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uriel/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite:2.8.0] /Users/uriel/.gradle/caches/transforms-3/1ba6fa225ff873dc64d3e7eba9d516b3/transformed/tensorflow-lite-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.8.0] /Users/uriel/.gradle/caches/transforms-3/1ba6fa225ff873dc64d3e7eba9d516b3/transformed/tensorflow-lite-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/uriel/.gradle/caches/transforms-3/da4a9d90b6d5906b32f590542e80a97a/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/uriel/.gradle/caches/transforms-3/da4a9d90b6d5906b32f590542e80a97a/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:14:9-59
+	android:dataExtractionRules
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:8:9-65
+activity#ai.passio.platformsdksandboxapp.MainActivity
+ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+MERGED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:5:5-7:41
+MERGED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/uriel/.gradle/caches/transforms-3/e94337de3ceb42b0135be1d8a4a9b7db/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/uriel/.gradle/caches/transforms-3/e94337de3ceb42b0135be1d8a4a9b7db/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/uriel/.gradle/caches/transforms-3/b8d955ff5639500073f611d7cca66d0d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/uriel/.gradle/caches/transforms-3/b8d955ff5639500073f611d7cca66d0d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /Users/uriel/.gradle/caches/transforms-3/c08086605700e0332c2d789f3343442c/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /Users/uriel/.gradle/caches/transforms-3/c08086605700e0332c2d789f3343442c/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/220f262bc0c4a90dd1c6d4cfcfffd236/transformed/camera-view-1.0.0-alpha32/AndroidManifest.xml:20:5-23:145
+MERGED from [androidx.camera:camera-view:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/220f262bc0c4a90dd1c6d4cfcfffd236/transformed/camera-view-1.0.0-alpha32/AndroidManifest.xml:20:5-23:145
+MERGED from [androidx.appcompat:appcompat:1.5.0] /Users/uriel/.gradle/caches/transforms-3/547ec1eef38a6093362cbb0055ebb104/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] /Users/uriel/.gradle/caches/transforms-3/547ec1eef38a6093362cbb0055ebb104/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/uriel/.gradle/caches/transforms-3/c5337c5af883d5a89eb44de248036a9c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/uriel/.gradle/caches/transforms-3/c5337c5af883d5a89eb44de248036a9c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/uriel/.gradle/caches/transforms-3/e01b3c478d1cfea9eff112abfb6ab7ac/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/uriel/.gradle/caches/transforms-3/e01b3c478d1cfea9eff112abfb6ab7ac/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /Users/uriel/.gradle/caches/transforms-3/67bf8b280489adc5dd17e9c5173554ed/transformed/activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /Users/uriel/.gradle/caches/transforms-3/67bf8b280489adc5dd17e9c5173554ed/transformed/activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/uriel/.gradle/caches/transforms-3/1d1ec35a0b073539f88987e1e3135d4a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/uriel/.gradle/caches/transforms-3/1d1ec35a0b073539f88987e1e3135d4a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8169044863e32aacf8847f97d6dae8de/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8169044863e32aacf8847f97d6dae8de/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/uriel/.gradle/caches/transforms-3/b4f8bd67f68df867f824843476c0e792/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/uriel/.gradle/caches/transforms-3/b4f8bd67f68df867f824843476c0e792/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/uriel/.gradle/caches/transforms-3/33c21fcf575f311fb56e7e61671104ef/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/uriel/.gradle/caches/transforms-3/33c21fcf575f311fb56e7e61671104ef/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/uriel/.gradle/caches/transforms-3/36c5eae582883d9124a2cca4d1e646b6/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/uriel/.gradle/caches/transforms-3/36c5eae582883d9124a2cca4d1e646b6/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/uriel/.gradle/caches/transforms-3/1ac240e793df8a153307a3873c7df956/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/uriel/.gradle/caches/transforms-3/1ac240e793df8a153307a3873c7df956/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/uriel/.gradle/caches/transforms-3/78a187a07887b946401fee9339ec4fa3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/uriel/.gradle/caches/transforms-3/78a187a07887b946401fee9339ec4fa3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/uriel/.gradle/caches/transforms-3/b265378afefd98a05d6561c9b86651ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/uriel/.gradle/caches/transforms-3/b265378afefd98a05d6561c9b86651ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/uriel/.gradle/caches/transforms-3/9cc27a85b544e2bd308b01e10d0b1220/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/uriel/.gradle/caches/transforms-3/9cc27a85b544e2bd308b01e10d0b1220/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/uriel/.gradle/caches/transforms-3/75d77ab2d713b31cd19a64f7712ed072/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/uriel/.gradle/caches/transforms-3/75d77ab2d713b31cd19a64f7712ed072/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/uriel/.gradle/caches/transforms-3/0d70a48b26e129e8342f05440a7532c7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/uriel/.gradle/caches/transforms-3/0d70a48b26e129e8342f05440a7532c7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/d8cbef4b6ccb43d6603b8adbf2e488ed/transformed/camera-lifecycle-1.1.0-alpha12/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/d8cbef4b6ccb43d6603b8adbf2e488ed/transformed/camera-lifecycle-1.1.0-alpha12/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uriel/.gradle/caches/transforms-3/364f02d958da6083eb7b4ab0f244e170/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uriel/.gradle/caches/transforms-3/364f02d958da6083eb7b4ab0f244e170/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/uriel/.gradle/caches/transforms-3/354ba84b00bc3f654b42465954922aaa/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/uriel/.gradle/caches/transforms-3/354ba84b00bc3f654b42465954922aaa/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/uriel/.gradle/caches/transforms-3/7774b338963ffc00386dc8c14655302e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/uriel/.gradle/caches/transforms-3/7774b338963ffc00386dc8c14655302e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/uriel/.gradle/caches/transforms-3/f6efd0d03fc5f912c9a8ce5a375ea6a5/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/uriel/.gradle/caches/transforms-3/f6efd0d03fc5f912c9a8ce5a375ea6a5/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/uriel/.gradle/caches/transforms-3/15c8466770a173f9d484396dc8e2d821/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/uriel/.gradle/caches/transforms-3/15c8466770a173f9d484396dc8e2d821/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/uriel/.gradle/caches/transforms-3/1551525bad72895c8c43417154f7aa5c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/uriel/.gradle/caches/transforms-3/1551525bad72895c8c43417154f7aa5c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/uriel/.gradle/caches/transforms-3/217fec835b32ae391351c4d8e9e69555/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/uriel/.gradle/caches/transforms-3/217fec835b32ae391351c4d8e9e69555/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/uriel/.gradle/caches/transforms-3/2e1b865ec891b715ca69d0c18a8b7699/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/uriel/.gradle/caches/transforms-3/2e1b865ec891b715ca69d0c18a8b7699/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uriel/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uriel/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/uriel/.gradle/caches/transforms-3/0758d948b6aa56ad60054db5a01ee741/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/uriel/.gradle/caches/transforms-3/0758d948b6aa56ad60054db5a01ee741/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/uriel/.gradle/caches/transforms-3/67d07b777e83d33bb10df35342aa0522/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/uriel/.gradle/caches/transforms-3/67d07b777e83d33bb10df35342aa0522/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/uriel/.gradle/caches/transforms-3/86c811214e5cdd2fe2677c8fbf7015ad/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/uriel/.gradle/caches/transforms-3/86c811214e5cdd2fe2677c8fbf7015ad/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/uriel/.gradle/caches/transforms-3/c385480978bb58ec994541db18fa1f78/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/uriel/.gradle/caches/transforms-3/c385480978bb58ec994541db18fa1f78/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/uriel/.gradle/caches/transforms-3/b6d96dcec8584c0443e49a1bb1e27dda/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/uriel/.gradle/caches/transforms-3/b6d96dcec8584c0443e49a1bb1e27dda/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/uriel/.gradle/caches/transforms-3/bf599317aab70acfb280f701e2f6b6d4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/uriel/.gradle/caches/transforms-3/bf599317aab70acfb280f701e2f6b6d4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8aea674e3ff26df490b68045ec51afef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8aea674e3ff26df490b68045ec51afef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/uriel/.gradle/caches/transforms-3/e624bb674065b70c4a91d08a86ce685e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/uriel/.gradle/caches/transforms-3/e624bb674065b70c4a91d08a86ce685e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/uriel/.gradle/caches/transforms-3/2fdc444f58f0985dd90434a2dfd41b22/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/uriel/.gradle/caches/transforms-3/2fdc444f58f0985dd90434a2dfd41b22/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8b6dcb5af362fdf92b4433d1caf07205/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/uriel/.gradle/caches/transforms-3/8b6dcb5af362fdf92b4433d1caf07205/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.8.0] /Users/uriel/.gradle/caches/transforms-3/1ba6fa225ff873dc64d3e7eba9d516b3/transformed/tensorflow-lite-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.8.0] /Users/uriel/.gradle/caches/transforms-3/1ba6fa225ff873dc64d3e7eba9d516b3/transformed/tensorflow-lite-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/uriel/.gradle/caches/transforms-3/da4a9d90b6d5906b32f590542e80a97a/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/uriel/.gradle/caches/transforms-3/da4a9d90b6d5906b32f590542e80a97a/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.camera:camera-view:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/220f262bc0c4a90dd1c6d4cfcfffd236/transformed/camera-view-1.0.0-alpha32/AndroidManifest.xml:23:9-142
+	android:targetSdkVersion
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		MERGED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		MERGED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uriel/Downloads/Passio-Platform-Android-SDK-Passion/RealApp_Passion_Fruits/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:10:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [ai.passio.passiosdk:platformsdk:2.2.12] /Users/uriel/.gradle/caches/transforms-3/8afca2e2f2864dc5962afe397f2c7910/transformed/platformsdk-2.2.12/AndroidManifest.xml:14:22-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/uriel/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/uriel/.gradle/caches/transforms-3/db709a07cd868a548070df67f943ad99/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+queries
+ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:24:5-28:15
+intent#action:name:androidx.camera.extensions.action.VENDOR_ACTION
+ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:25:9-27:18
+action#androidx.camera.extensions.action.VENDOR_ACTION
+ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:26:13-86
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:26:21-83
+uses-library#androidx.camera.extensions.impl
+ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:31:9-33:40
+	android:required
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha32] /Users/uriel/.gradle/caches/transforms-3/2c31e77c5b60a9e78626459c6aee8205/transformed/camera-extensions-1.0.0-alpha32/AndroidManifest.xml:32:13-59
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:31:9-35:45
+MERGED from [androidx.camera:camera-core:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/3e7ba3e8f5b2c386e1d6bb4a654ba3d2/transformed/camera-core-1.1.0-alpha12/AndroidManifest.xml:31:9-35:45
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:30:13-42
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-alpha12] /Users/uriel/.gradle/caches/transforms-3/38f4c46e6583e21dc0294e12d4a9e67d/transformed/camera-camera2-1.1.0-alpha12/AndroidManifest.xml:33:17-103
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#ai.passio.platformsdksandboxapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#ai.passio.platformsdksandboxapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/uriel/.gradle/caches/transforms-3/01ff7b727cf930e5a25944ebe3842041/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/uriel/.gradle/caches/transforms-3/157d56dbf310011cb7683efa4341a216/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
